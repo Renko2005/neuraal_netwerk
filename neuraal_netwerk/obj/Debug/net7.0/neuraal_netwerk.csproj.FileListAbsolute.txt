@@ -1,0 +1,14 @@
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\bin\Debug\net7.0\neuraal_netwerk.exe
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\bin\Debug\net7.0\neuraal_netwerk.deps.json
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\bin\Debug\net7.0\neuraal_netwerk.runtimeconfig.json
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\bin\Debug\net7.0\neuraal_netwerk.dll
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\bin\Debug\net7.0\neuraal_netwerk.pdb
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.AssemblyInfoInputs.cache
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.AssemblyInfo.cs
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.csproj.CoreCompileInputs.cache
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.dll
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\refint\neuraal_netwerk.dll
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.pdb
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\neuraal_netwerk.genruntimeconfig.cache
+C:\Users\Prive\RiderProjects\neuraal_netwerk\neuraal_netwerk\obj\Debug\net7.0\ref\neuraal_netwerk.dll

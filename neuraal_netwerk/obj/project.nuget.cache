@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G50woUIWRY45XTn0/ebk2mhMd39FD01P86Q+P8h5LPnJ8MDDlS1GLWeii9KvDeXZuteZBR07pis8ZjHEgw3tbg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Prive\\RiderProjects\\neuraal_netwerk\\neuraal_netwerk\\neuraal_netwerk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Prive\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Prive\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Prive\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Prive\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
